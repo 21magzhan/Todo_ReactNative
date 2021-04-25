@@ -1,0 +1,12 @@
+{
+  "name": "MyTodo",
+  "displayName": "MyTodo",
+  "expo": {
+    "name": "MyTodo",
+    "slug": "MyTodo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
